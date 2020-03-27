@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WanAndroid</string>
+    <string name="main">首页</string>
+    <string name="tree">体系</string>
+    <string name="playground">广场</string>
+    <string name="we_chat_public">公众号</string>
+    <string name="mine">我的</string>
+    <string name="tv_news">文本</string>
+    <string-array name="project_top_tab">
+        <item>体系</item>
+        <item>倒计时对话框</item>
+        <item>广场文章列表</item>
+    </string-array>
+</resources>
